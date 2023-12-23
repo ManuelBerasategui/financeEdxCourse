@@ -8,3 +8,10 @@ Banks can create money by lending it from their saves
 En las economias con bancos, estos toman inversiones o depositos de terceros (savers), y los utilizan para dar prestamos a prestatarios. De esta manera, los bancos cobrarán a los prestatarios un interés mayor que el que le pagan a los terceros que depositan o invierten, sacando de esa manera profit.
 
 El capital financiero es aquella suma de dinero que todavia no fue consumida, sino ahorrada o depositada en un mercado financiero. El objetivo final de el capital financiero es obtener un interés del mismo, una renta.
+
+
+Hay distintas maneras de invertir nuestro dinero, o mejor dicho, distintas formas de capital financiero (financial capital):
+  - Préstamos
+  - Bonos:
+    - Gilts (Bonos del gobierno)
+    - Bonos corporativos o de corporaciones
