@@ -1,3 +1,75 @@
+La Plata en si misma no tiene un valor asociado, sino que tiene
+el valor que el humano mismo le otorga. Por otro lado, el capital
+es aquel fiado que se da con confianza, y puede estar soportado 
+generalmente por activos, aunque no siempre.
+
+El dinero es uno de los factores mas importantes en las finanzas.
+Sin él, podemos ir a la quiebra, y mientras menos haya, más
+valioso vá a ser. De igual forma, se puede medir el flujo de 
+dinero "Cash Flow", que no es mas que la manera en que nuestro
+dinero entra y sale, por decirlo de alguna manera. Luego, está
+el estimativo del flujo de dinero, o "Cash Flow forecasting", 
+que implica predecir o prepararse para un posible flujo de 
+fondos.
+
+El reportaje de fondos es llevado a cabo por aquellos 
+empleados de las organizaciones encargados de hacer saber
+a la empresa en que está gastando su dinero la misma, cuántos
+impuestos debería estar pagando, etc.
+
+Dentro de la economía de dinero o "Capital finance", se 
+encuentran tanto prestamistas como inversores. De esta manera,
+aquellos que se dedican a invertir o prestar su dinero, 
+evidentemente lo que buscan son dos cosas:
+	- Que su dinero esté seguro y no vaya a perderse
+	- Que cuando le vuelva a sus manos, regrese con un
+		interés, o "return"
+El interés es la clave de los inversores en la economía, y es 
+así también una manera de generar ingresos
+
+El riesgo que toman las organizaciones siempre está medido 
+por dos factores claves: La pérdida de dinero respecto de lo
+invertido, es decir, si perdí dinero y cuanto desde que invertí, 
+y la reducción del interés esperado, o "expected return"
+
+
+El capital financiero se refiere a activos tipo bonos y acciones. Pueden ser otras cosas, otros activos, pero estos son los principales.
+
+Los factores de producción son elementos utilizados para producir, como tierra, trabajo (mano de obra), etc. En esto se encuentra el capitalismo, que es un sistema económico "libre" en el que se entiende que los propietarios deben recibir una paga o "return" por poner en riesgo sus medios/activos. 
+
+Se encuentra aca tambien el mercado libre, que es una economia regida por el mercado mismo, y no por terceros como el estado. Este régimen es llamado mecanismo de mercado, que consiste en la regulación de oferta y demanda. Esto quiere decir que, según la oferta supere la demana, o la demana supere la oferta, el precio/valor disminuirá o aumentará respectivamente. Si estos son iguales, el precio se equilibra. El mercado mismo posee una regulación regida por reglas (valga la redundancia), normalmente leyer o legislaciones.
+
+Puede existir una economía que se riga tanto por el mercado como por la redistribución del gobierno. A esto se le llama economía mixta. 
+
+La propiedad privada se encuentra libre de la intervención estatal y se crea para generar ganancias. Por el contrario, el sector público es aquel regulado y controlado por el gobierno. Se encuentra dentro de las economías un tercer sector denominado como organizaciones no gubernamentales sin fines de lucro.
+
+El término nacionalizacion se refiere a expropiación. Por contraste, la privatización puede significar dos cosas:
+	- El traspaso de una entidad pública a manos privadas
+	- Una privatización corporativa, que es el traspaso de propiedad de los mercados, como la bolsa de valores, a los privados.
+
+El capital es aquel invertido por accionistas o prestamistas de una determinada empresa. Para preservar a los acreedores de la empresa, no se permite que esta pague o financie el capital social. Esta es la expresión del principio de conservación obligatoria de capital.
+
+Los interesados son aquellos que buscan un interés (valga la redundancia) en las empresas u organizaciones. Éstos pueden ser accionistas, prestamistas o inversionistas, etc.
+
+Inversiones de deuda en organizaciones
+
+El préstamo supone una inversión para el prestamista y un pasivo o endeudamiento para el prestatario. Los bonos, por ejemplo, son activos o formas de inversión que se negocian, y son emitidos por organizaciones prestatarias hacia prestamistas.
+
+La documentación es fundamental en las inversiones para proteger al inversionista al momento de no recibir su pago establecido, a lo que se llama "Default", por distintas razones. Ésto hace que el inversionista reciba de manera asegurada su pago o interés luego de un determinado lapso de tiempo. Otra parte de la documentación son los convenios. A su vez, los pactos son otra parte de prestar y tomar prestada documentación que proteje el inversor.
+
+Si se rompe un acuerdo de prestamo, es decir que la retribución no llegó en el tiempo establecido, no se pagaron los intereses, etc. Se dice que está en una situación de event of default (evento de default). Dentro de este evento, puede darse la ruptura de un pacto, (Breach of a covenant), que termina dando derechos adicionales al prestamista.
+
+Las calificaciones crediticias, o credit ratings, son un examen de solvencia hecho para separar organizaciones del emisor de bonos. En este sentido, las agencias de calificaciones crediticias, o Credit rating agencies, se encargan de evaluar la solvencia y publicar las calificaciones.
+
+La responsabilidad corporativa social, o "Corporate social responsability" es la aceptación por parte de las organizaciones de que tienen rangos de responsabilidades mas largos, es decir, a largo plazo, por encima del corto y mediano plazo.
+
+La sustentabilidad, o sustainability, se encarga de asegurar que, al largo plazo, el ambiente no se vea afectado por diversos efectos producidos por las actividades de las organizaciones. A su vez, se aseguran de no perjudicar el ambiente físico para la raza humana.
+
+Un deber fiduciario, o fiduciary duty, es un deber legal para intrometerse en los eventos de otros. Un fiduciario es una persona que ocupa una posición de confianza respecto de alguien más y que es necesario para actuar para el próximo beneficio, o beneficio futuro, en esa relacion.
+
+La administración, o stewardship, es un deber fiduciario fundamental de los directores de companías para proteger y administrar la propiedad que le corresponde a la companía, o a sus prestamistas.
+
+
 Money - Videos section
 
 The money has no inherit value
@@ -15,3 +87,13 @@ Hay distintas maneras de invertir nuestro dinero, o mejor dicho, distintas forma
   - Bonos:
     - Gilts (Bonos del gobierno)
     - Bonos corporativos o de corporaciones
+
+equity --> equidad. El valor líquido o en $ que tienen tus assets al venderlos. Ejemplo: una casa que tiene un valor líquido de $200 es pagada con una hipoteca de $50 a 3 años, lo que le da una equidad de $150
+
+funding --> fondos. Funding es un acto de contribuir fondos a un cierto proyecto, fundación, etc. Pueden ser tanto fondos económicos como assets, en conclusión, resources.
+
+funding es como financiar. Los negocios, o cualquier proyecto, pueden ser financiados de distintas maneras. Puede salir todo de los shareholders de la empresa, lo que representa equity, o puede salir de debt. En otras palabras, los negocios pueden estar financiados con dinero directamente de nuestro bolsillo, o del de socios, o puede estar financiado con dinero proveniente de deudas. En el caso de financiar el negocio con deuda, debemos de poder darle a los prestatarios la seguridad en nuestro proyecto de que recuperarán ese dinero.
+
+A su vez, tanto equity como debt son maneras de invertir el dinero. Cuando se invierte equity, se espera un ingreso o retorno adicional luego del crecimiento de la empresa. Ejemplo, las acciones. A su vez se suelen recibir parte de los dividendos de las empresas que compramos. Por su parte, la deuda es una forma de inversión para aquellos inversionistas o prestamistas que nos dieron su dinero. Éstos esperan un reingreso con intereses luego del crecimiento del negocio. La plata puede ser tanto un préstamo, del banco o de terceros, o bien un bono recibido del estado por ejemplo.
+
+CONTINUAR POR RESOURCES PARA LEER QUE NO LOS LEI: AN INTRODUCTION TO EQUITY CAPITAL Y AN INTRODUCTION TO LOAN FINANCE
