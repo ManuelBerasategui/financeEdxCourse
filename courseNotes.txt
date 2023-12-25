@@ -96,4 +96,13 @@ funding es como financiar. Los negocios, o cualquier proyecto, pueden ser financ
 
 A su vez, tanto equity como debt son maneras de invertir el dinero. Cuando se invierte equity, se espera un ingreso o retorno adicional luego del crecimiento de la empresa. Ejemplo, las acciones. A su vez se suelen recibir parte de los dividendos de las empresas que compramos. Por su parte, la deuda es una forma de inversión para aquellos inversionistas o prestamistas que nos dieron su dinero. Éstos esperan un reingreso con intereses luego del crecimiento del negocio. La plata puede ser tanto un préstamo, del banco o de terceros, o bien un bono recibido del estado por ejemplo.
 
-CONTINUAR POR RESOURCES PARA LEER QUE NO LOS LEI: AN INTRODUCTION TO EQUITY CAPITAL Y AN INTRODUCTION TO LOAN FINANCE
+
+Equity Capital es basicamente capital social, que consiste en el capital aportado por los socios o propietarios de la empresa. Son aquellos accionistas o inversionistas. A lo largo del tiempo, a medida que la empresa crezca, estos accionistas recibirán un beneficio en forma de dividendos u otros activos.
+
+El capital social se constituye de dos elementos similares entre si pero no iguales:
+	- Acciones ordinarias (Ordinary shares): son aquellas acciones que cualquier tercero puede comprar, y le dan al accionista la participación en la repartición de dividendos y capital. A su vez, estas acciones pueden seccionarse o dividirse según distintos privilegios que puedan tener los accionistas, tales como la participación en la empresa, la repartición del capital, etc.
+	- Acciones Preferenciales: Son aquellas acciones que tienen una preferencia por encima de las otras. Éstas son creadas por la empresa para dar, como dije previamente, ciertos privilegios por encima de otros a los accionistas.
+
+Hay dos tipos bien definidos de bonos:
+	- Los bonos convertibles: Son emitidos por una compañía específica y se pueden intercambiar únicamente por activos o formas de capital de esa misma empresa
+	- Los bonos canjeables: Son aquellos bonos que se pueden vender o intercambiar por activos o capital de otras empresas.
